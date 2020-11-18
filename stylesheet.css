@@ -1,0 +1,74 @@
+body {
+    color: rgb(4, 59, 16);
+    background-image: url('erdo.jpg');
+    margin-left:440px;
+    margin-right:440px;
+}
+
+#header {
+    text-align: center;
+}
+
+#kep0 {
+    width: 150px;
+    height: 120px;
+}
+
+#leiras{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#kepTabl {
+    margin: auto;
+}
+
+#szov {
+    margin-left: 275px;
+}
+
+#tabl {
+    margin: auto;
+    padding: 2px;
+    width: 480;
+    border: 1px solid black;
+    border-collapse: separate;
+}
+
+#cent {
+    text-align: center;
+    width: 120px;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#right {
+    text-align: right;
+    border: 1px solid black;
+    padding: 8px;
+    width: 120px;
+}
+
+
+#link {
+    color: rgb(52, 165, 52);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#kep {
+    width: 130px;
+    height: auto;
+    float: right;
+}
+
+#vege{
+    color: darkgreen;
+    text-align: left;
+    text-indent: 10%;
+}
+
+.listaSzam{
+    color: darkgreen;
+    text-align: left;
+}
