@@ -62,13 +62,13 @@ body {
     float: right;
 }
 
-#vege{
+#vege {
     color: darkgreen;
     text-align: left;
     text-indent: 10%;
 }
 
-.listaSzam{
+.listaSzam {
     color: darkgreen;
     text-align: left;
 }
@@ -76,4 +76,5 @@ body {
 .foot {
     color: darkgreen;
     size: 3px;
+    width: 100%;
 }
