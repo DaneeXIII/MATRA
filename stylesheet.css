@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 
-#kep0 {
+.kep0 {
     width: 150px;
     height: 120px;
 }
@@ -35,7 +35,7 @@ body {
     border-collapse: separate;
 }
 
-#cent {
+.cent {
     text-align: center;
     width: 120px;
     border: 1px solid black;
